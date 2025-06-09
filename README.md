@@ -42,7 +42,7 @@ python baseline_solvers.py --solver 'cplex'
 If you would like to use this repository, please consider citing this work using the following Bibtex:
 ```text
 @article{liu2024gpu,
-  title={GPU-based Graver Basis Extraction for Nonlinear Integer Optimization},
+  title={GPU-Based Graver Basis Extraction for Nonlinear Integer Optimization},
   author={Liu, Wenbo and Wang, Akang and Yang, Wenguo},
   journal={arXiv preprint arXiv:2412.13576},
   year={2024}

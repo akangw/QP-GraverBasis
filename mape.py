@@ -118,7 +118,7 @@ if __name__ == '__main__':
     parser.add_argument('--batch', type=int, default=1)
     args = parser.parse_args()
 
-    gp.setParam('LogToConsole', 0)
+    #gp.setParam('LogToConsole', 0)
 
     for file in os.listdir('./instance/QPLIB'):
         ins_name = os.path.join('./instance/QPLIB', file)

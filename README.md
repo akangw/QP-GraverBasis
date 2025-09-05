@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GPU-Based Graver Basis Extraction for Nonlinear Integer Optimization
 
 ## Introduction
@@ -49,3 +50,6 @@ If you would like to use this repository, please consider citing this work using
 }
 ```
 
+=======
+# QP-GraverBasis
+>>>>>>> 51e751d6248a38679382ea0a210018f7f4fa0be0
